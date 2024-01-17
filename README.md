@@ -6,4 +6,4 @@
 > Useful information that users should know, even when skimming content.
 
 
-<div style="color:red">Isto é un div</div>
+<span style="color:red">Isto é un div</span>
